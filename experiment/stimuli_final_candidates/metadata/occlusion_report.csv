@@ -1,0 +1,25 @@
+﻿category,exemplar_id,target_foreground_coverage_percent,estimated_actual_foreground_coverage_percent,diagnostic_features_targeted,pattern_seed,recognisability_status
+bowl,bowl_ex01,70,70.0,rim and interior opening contour,9483070702327452398,requires_timed_behavioural_pretest
+bowl,bowl_ex02,70,70.0,rim and interior opening contour,17057463461872708694,requires_timed_behavioural_pretest
+bowl,bowl_ex03,70,69.98,rim and interior opening contour,9204520698281492057,requires_timed_behavioural_pretest
+bowl,bowl_ex04,70,70.0,rim and interior opening contour,7557481350793070346,requires_timed_behavioural_pretest
+cup,cup_ex01,70,70.01,handle plus rim/opening,210270354560969092,requires_timed_behavioural_pretest
+cup,cup_ex02,70,69.98,handle plus rim/opening,13640584438776088802,requires_timed_behavioural_pretest
+cup,cup_ex03,70,70.01,handle plus rim/opening,10622907805887080841,requires_timed_behavioural_pretest
+cup,cup_ex04,70,70.0,handle plus rim/opening,2861141012955344821,requires_timed_behavioural_pretest
+plate,plate_ex01,70,70.0,outer circular boundary and visible edge contour,11076879245975279502,requires_timed_behavioural_pretest
+plate,plate_ex02,70,70.0,outer circular boundary and visible edge contour,1586664070961400237,requires_timed_behavioural_pretest
+plate,plate_ex03,70,70.02,outer circular boundary and visible edge contour,1045598771707278919,requires_timed_behavioural_pretest
+plate,plate_ex04,70,69.99,outer circular boundary and visible edge contour,17239651171635250533,requires_timed_behavioural_pretest
+knife,knife_ex01,70,70.0,blade contour plus tip or blade-handle junction,505627158096029937,requires_timed_behavioural_pretest
+knife,knife_ex02,70,70.0,blade contour plus tip or blade-handle junction,4320669862487370157,requires_timed_behavioural_pretest
+knife,knife_ex03,70,70.02,blade contour plus tip or blade-handle junction,6482139988684114087,requires_timed_behavioural_pretest
+knife,knife_ex04,70,70.0,blade contour plus tip or blade-handle junction,7436458322499914015,requires_timed_behavioural_pretest
+fork,fork_ex01,70,70.0,tines plus tine-handle junction,596309297820557202,requires_timed_behavioural_pretest
+fork,fork_ex02,70,69.98,tines plus tine-handle junction,16765110599968101407,requires_timed_behavioural_pretest
+fork,fork_ex03,70,69.98,tines plus tine-handle junction,1283422603307317800,requires_timed_behavioural_pretest
+fork,fork_ex04,70,69.98,tines plus tine-handle junction,14720510864444893775,requires_timed_behavioural_pretest
+spoon,spoon_ex01,70,70.0,spoon head plus head-handle junction,13454166334339334743,requires_timed_behavioural_pretest
+spoon,spoon_ex02,70,70.02,spoon head plus head-handle junction,12355186768673848225,requires_timed_behavioural_pretest
+spoon,spoon_ex03,70,69.98,spoon head plus head-handle junction,5485917460191747134,requires_timed_behavioural_pretest
+spoon,spoon_ex04,70,70.03,spoon head plus head-handle junction,7390984386627505353,requires_timed_behavioural_pretest

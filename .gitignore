@@ -1,0 +1,42 @@
+# Participant and study data
+raw_data/
+participant_data/
+processed_data/
+outputs/
+results/
+analysis_outputs/
+*.xdf
+*.fif
+*.npy
+*.npz
+sub-*_trial-*.wav
+*_run-*_trial-*.wav
+
+# Generated logs, temporary files, and caches
+*.log
+tmp/
+temp/
+cache/
+.cache/
+model_cache/
+models/
+hf_cache/
+whisper_models/
+
+# Python environments and bytecode
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# IDE and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local configuration and secrets
+.env
+.env.*
+*.local

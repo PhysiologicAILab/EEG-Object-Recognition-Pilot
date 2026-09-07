@@ -1,0 +1,27 @@
+event_code,event_name,description
+0,lsl_self_test,Program-side LSL outlet self-test
+1,fixation_onset,Fixation onset on screen flip
+11,visible_none_image_onset,Visible image onset without audio
+12,visible_congruent_image_onset,Visible image onset with congruent audio
+13,visible_incongruent_image_onset,Visible image onset with incongruent audio
+21,occluded_none_image_onset,Occluded image onset without audio
+22,occluded_congruent_image_onset,Occluded image onset with congruent audio
+23,occluded_incongruent_image_onset,Occluded image onset with incongruent audio
+31,congruent_audio_onset,Congruent spoken-word onset marker
+32,incongruent_audio_onset,Incongruent spoken-word onset marker
+40,image_offset,Image offset on screen flip
+41,silent_delay_onset,Silent-delay onset
+42,response_cue_onset,Microphone cue onset on screen flip
+43,microphone_recording_start,Microphone recording start
+44,microphone_recording_stop,Microphone recording stop
+50,trial_start,Trial start
+51,trial_end,Trial end after ITI
+60,run_start,Main run start
+61,run_end,Main run end
+70,break_start,Break screen start
+71,break_end,Break end
+80,practice_start,Practice block start
+81,practice_end,Practice block end
+90,experiment_start,Experiment start
+91,experiment_end,Experiment end
+98,experiment_abort,Safe experiment abort
