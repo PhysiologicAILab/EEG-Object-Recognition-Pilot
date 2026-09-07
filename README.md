@@ -61,8 +61,4 @@ This project developed:
 
 Create a Python environment appropriate for PsychoPy and install the packages listed in `requirements.txt`. PsychoPy and hardware-related packages may require platform-specific installation steps. Large speech-recognition models are downloaded or configured separately and are not stored in this repository.
 
-## Data availability
 
-The full participant EEG, event-marker, and speech dataset is not included in this public code repository. It is planned for later release or access through the Physiologic AI Lab, subject to appropriate data-sharing arrangements.
-
-No participant EEG, participant speech recordings, participant-level raw logs, consent records, recruitment information, or payment information are included here.
